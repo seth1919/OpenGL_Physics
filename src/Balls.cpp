@@ -239,15 +239,17 @@ int main(void)
         0.0005, -0.007, 0.0012
     };
 
-    float record_x_velocity[] = {
-        0.000, 0.000
-    };
-
     float y_velocity[] = {
         //and here
         0.006, 0.006, 0.00
     };
 
+    //do not change, should be 0
+    float record_x_velocity[] = {
+        0.000, 0.000
+    };
+
+    //do not change, should be 0
     float record_y_velocity[] = {
         0.000, 0.00
     };
